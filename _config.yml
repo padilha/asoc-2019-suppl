@@ -1,4 +1,4 @@
 #Jekyll config
 url : http://padilha.github.io/asoc-2019-suppl
-baseurl: /bracis-2018-suppl
+baseurl: /asoc-2019-suppl
 theme: jekyll-theme-minimal
